@@ -6,8 +6,14 @@ clear (화면을 한 번 스와이프)
 
 git 명령어
 
+
 git add 파일명 (해당 파일을 stage에 올림)
 ex) git add week01.txt
+
+파일 모두 stage에 올리는 방법은
+git add .
+
+-->stage에 올린 다음에는 commit 해야한다.
 
 git config --list (현 컴퓨터의 깃 설정 값들 확인)
 
